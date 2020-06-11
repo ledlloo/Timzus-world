@@ -1,2 +1,3 @@
 # Timzus-world
-tiedostoja
+Tänne kirjoitetaan mun tulevista projekteista 
+The Odins Project
